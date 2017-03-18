@@ -1,7 +1,9 @@
 # This repo contain my hack software c:
 
 ## Ready Softwares!
-[GOTO](../master/SMTP%20BruteForce%20v2) -SMTP BruteForce
+| Tables        | Version       | GOTO  |
+| ------------- |:-------------:| :----:|
+| SMTP BruteForce      | 2.0 | [Click](../master/SMTP%20BruteForce%20v2) |
 
 ## In Development soft!
 -EMPTY
