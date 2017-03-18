@@ -1,3 +1,14 @@
-# H4ck5
 # This repo contain my hack software c:
-# Good luck and have fun!
+
+# Ready Softwares!
+-SMTP BruteForce
+
+# In Development soft!
+-EMPTY
+
+# Additional info!
+Hey. If my soft is helpful to you. You can donate me c:
+
+https://paypal.me/vo1t/
+
+# Good luck in hacks!
