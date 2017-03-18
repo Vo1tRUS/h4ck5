@@ -1,14 +1,14 @@
 # This repo contain my hack software c:
 
-# Ready Softwares!
--SMTP BruteForce
+## Ready Softwares!
+[GOTO](../master/SMTP%20BruteForce%20v2) -SMTP BruteForce
 
-# In Development soft!
+## In Development soft!
 -EMPTY
 
-# Additional info!
+## Additional info!
 Hey. If my soft is helpful to you. You can donate me c:
 
-https://paypal.me/vo1t/
+[Donate](https://paypal.me/vo1t/)
 
 # Good luck in hacks!
