@@ -15,6 +15,7 @@ How it works:
 4.Below you need write you email address, this is necessary to send valid email and password combination to your address if you unfortunately close BruteForcer!
 ***
 Developed by Peter Shishkov peter.shishkov@outlook.com
-[Donate](https://paypal.me/vo1t/)
+
+[Donate if soft is useful](https://paypal.me/vo1t/)
 ***
 Good Luck in H4ck5!
